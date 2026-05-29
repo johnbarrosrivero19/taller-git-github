@@ -1,0 +1,7 @@
+Mi primera práctica con Git y GitHub.
+
+Nombre: John Barros
+Curso: Ingeniería de Software
+Fecha: 29-05-2026
+
+Estoy aprendiendo a usar control de versiones.
